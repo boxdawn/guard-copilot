@@ -2,4 +2,4 @@
 
 Built files only. Source, install steps and limits: https://github.com/boxdawn/guard
 
-This build: v0.4.12, from boxdawn/guard 7845e46380e88b436ac1ab62927789987b3a2576.
+This build: v0.4.13-rc.1, from boxdawn/guard 82038160cc93e1e46ac22c4ca0919fce3f25c100.
